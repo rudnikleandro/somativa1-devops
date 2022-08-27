@@ -14,3 +14,4 @@ while controle == 1:
     print() #quebra de linha
     #menu interativo para repetir o calculo da sequencia
     controle = int(input("Digite 1 para continuar ou 0 para parar: "))
+    print("*******")
